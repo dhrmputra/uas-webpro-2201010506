@@ -1,0 +1,21 @@
+Nama : I Made Dharma Putra
+NIM : 2201010506
+Kls : MTI - M
+
+Website Top Up Game, Paket Data dan Voucher Aplikasi
+
+berisi 3 halaman : Top Up, Histori, Contact Us
+pada halaman top up user bisa top up game/paket data/voucher dengan mengisi form
+yang berisi id game / nomor telepon, server/zona, pesanan yang dipilih dan
+metode pembayaran. Saat user memekan pesanan yang akan dipilih akan langsung
+memunculkan harga dengan otomatis dan user bisa memakai kode promo.
+Saat memakai promo sistem memunculkan modal yang berisi pilihan voucher,
+saat voucher digunakan berisi perkalian antar harga dengan jumlah diskon
+yang dipakai. Jika sudah terisi semua, user menekan tombol submit
+dan akan disimpan ke database
+
+pada halaman histori user bisa melihat riwayat pesanan mereka dan juga
+bisa melihat invoice dari pesanannya. 
+
+pada halaman contact us user bisa memberikan saran dan memberi rating kepada
+layanan, dengan mengisi form yang berisi nama, email, pesan dan memilih bintang 
